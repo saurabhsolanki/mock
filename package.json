@@ -1,0 +1,23 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhsolanki/mock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhsolanki/mock/issues"
+  },
+  "homepage": "https://github.com/saurabhsolanki/mock#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
